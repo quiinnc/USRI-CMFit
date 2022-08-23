@@ -10,5 +10,3 @@ Kouketsu, Yui, et al. "A new approach to develop the R aman carbonaceous materia
 
 This Project is apart of Western University and the Undergraduate Student Research Internship (USRI). 
 To view more projects like this, please visit the USRI conference at: https://ir.lib.uwo.ca/usri/
-
-\bold{ayo}
