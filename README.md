@@ -13,9 +13,4 @@ To view more projects like this, please visit the USRI conference at: https://ir
 
 ## Dependencies
 
-matplotlib \n
-numpy
-lmfit
-PyQt5
-collections
-heapq
+matplotlib, numpy, lmfit, PyQt5, collections, heapq
