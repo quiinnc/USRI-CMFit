@@ -13,7 +13,7 @@ To view more projects like this, please visit the USRI conference at: https://ir
 
 ## Dependencies
 
-matplotlib
+matplotlib \n
 numpy
 lmfit
 PyQt5
